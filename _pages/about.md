@@ -25,4 +25,4 @@ Hi 👋 I'm Ruilin, a passionate gamer 🎮 and movie-lover from Singapore and h
 - I go to watch movies every Saturday at Golden Village.
 - I think I have watched a 100 movies? maybe a bit less
 
-- Thanks for reading!
+# Thanks for reading!
