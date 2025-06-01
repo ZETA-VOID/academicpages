@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "david / a teacher"
+title                    : "Ruilin / a student"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,12 +22,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Zeta.png"
   name             : "david"
-  pronouns         : "Him"  
-  bio              : "tech expert"
+  pronouns         : "He/Him"  
+  bio              : "Gamer"
   location         : "Sg"
-  employer         : "Red Brick University"
+  employer         : "School"
   uri              : # URL
   email            : "none@example.org" 
 
