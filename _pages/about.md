@@ -18,4 +18,4 @@ Hi 👋 I'm Ruilin, a passionate gamer 🎮 from Singapore and here are a few th
 - Recently a game a Roblox was very popular, called "Grow A Garden", and I have been playing it a lot too.
 - Its one of my favourite games to relax and just have fun.
 - ZETA Website: "https://liquipedia.net/brawlstars/ZETA_DIVISION"
-Thanks for reading!
+- Thanks for reading!
